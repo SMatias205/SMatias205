@@ -1,8 +1,5 @@
-# 👋 Olá, eu sou Sharles Matias Nunes Filho 
+#  Olá, eu sou Sharles Matias Nunes Filho!
 
-✨ Apaixonado por tecnologia, programação e ensino  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Sempre buscando aprender e compartilhar conhecimento  
 
 ---
 
